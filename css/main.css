@@ -1,0 +1,22 @@
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	background-color: #3f3f3f;
+	margin: 0;
+	padding: 0;
+	background-image: url('../img/twitlogo.png');
+	background-color: #3f3f3f;
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+
+.footer{
+		bottom:10px;
+		width:100%;
+		position:fixed;
+		text-align: center;
+}
