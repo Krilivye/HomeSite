@@ -20,3 +20,20 @@ body {
 		position:fixed;
 		text-align: center;
 }
+
+.main{
+		width:100%;
+		text-align: center;
+}
+
+.geekClock-hours{
+		color:#FF3333;
+}
+
+.geekClock-minutes{
+		color:#FF6633;
+}
+
+.geekClock-seconds{
+		color:#FF9933;
+}
